@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "297033385103",
+    "project_id": "debaj-ae4ba",
+    "storage_bucket": "debaj-ae4ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297033385103:android:388fcbf949127233205cfa",
+        "android_client_info": {
+          "package_name": "com.dream.debag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297033385103-cl04e6k8rmbrjdrkh0v93lbcrc0ftuco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-vlZKbzxDANZaYLbx8-T6zlkfnH4jFh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297033385103-cl04e6k8rmbrjdrkh0v93lbcrc0ftuco.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "297033385103-tksu59qk9g180ov95m35pmp14hulr590.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dream.debag"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
